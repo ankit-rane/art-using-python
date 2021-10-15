@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/91012632/137497787-90d15da3-31b6-42b3-9fa9-c0d2e3af2f5e.png)
 
-This is a program to create a spirograph on Python.
+This is a program to create a spirograph in Python.
 
 # Contributers
 
